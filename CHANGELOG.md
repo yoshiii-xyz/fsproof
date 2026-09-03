@@ -2,7 +2,7 @@
 
 ## 0.1.0
 
-Initial MVP release target.
+Initial MVP release.
 
 - Add bounded filesystem snapshots.
 - Add native and polling notification backends.
