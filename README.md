@@ -2,8 +2,7 @@
 
 Filesystem event correctness layer.
 
-Status: pre-release validation in progress. The target MVP release is
-v0.1.0.
+Status: released v0.1.0.
 
 ## Install
 
@@ -100,9 +99,8 @@ docs/release.md. Contribution rules are in CONTRIBUTING.md.
 
 ## Release and support status
 
-This checkout is in pre-release validation. Release status changes only after
-the local gates, hosted gates, artifact checks, and independent smoke audit
-are recorded in private QA evidence.
+This repository contains the released v0.1.0 MVP. The release guarantee is
+best effort and does not claim complete filesystem event delivery.
 
 ## Contributing
 
