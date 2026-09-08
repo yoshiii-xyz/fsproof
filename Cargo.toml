@@ -5,7 +5,7 @@ edition = "2024"
 rust-version = "1.85"
 description = "Reconcile filesystem notifications with bounded snapshots"
 license = "MIT"
-repository = "https://github.com/joshiii-xyz/fsproof"
+repository = "https://github.com/yoshiii-xyz/fsproof"
 keywords = ["filesystem", "watcher", "inotify", "events"]
 categories = ["command-line-utilities", "filesystem"]
 
